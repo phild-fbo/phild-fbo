@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Image of High5](https://github.com/phild-fbo/phild-fbo/blob/master/high5.gif)
 
 <!--
 **phild-fbo/phild-fbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
