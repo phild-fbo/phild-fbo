@@ -1,6 +1,6 @@
 ### Hi there 🥶
 ![Image of N++](https://github.com/phild-fbo/phild-fbo/blob/master/n++.gif)
-<br />copyright:  <a href="https://www.metanetsoftware.com/games/nplusplus">Metanet Software/n++</a>
+<br />copyright:  <a href="https://www.metanetsoftware.com/games/nplusplus">Metanet Software / N++</a>
 
 <!--
 **phild-fbo/phild-fbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
